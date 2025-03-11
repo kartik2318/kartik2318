@@ -31,7 +31,7 @@ I'm Kartik, a passionate developer who loves working with **Fullstack and Blockc
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik2318&layout=compact&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kartik2318&theme=dark&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=kartik2318&theme=dark&hide_border=true&t=123)  
 
 
 ## 📫 Connect with me
