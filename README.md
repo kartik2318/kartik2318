@@ -18,7 +18,10 @@ I'm Kartik, a passionate developer who loves working with **Fullstack and Blockc
 
 
 ## 🌟 Open Source Contributions
-- Contributed to [Deep Search: Intelligent file searching system through content analysis](https://github.com/nachiket624/Deep-Search-)
+
+[![Deep Search](https://img.shields.io/badge/Deep%20Search-Intelligent%20File%20Searching-blue?style=flat-square&logo=github)](https://github.com/nachiket624/Deep-Search-)
+
+- 🛠️ Contributed to **[Deep Search](https://github.com/nachiket624/Deep-Search-)** – An intelligent file searching system through content analysis.
 
 ## 📊 GitHub Stats
 
