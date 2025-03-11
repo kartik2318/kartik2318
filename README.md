@@ -22,13 +22,16 @@ I'm Kartik, a passionate developer who loves working with **Fullstack and Blockc
 |------------|--------|--------|--------|-------------|
 | [My-Projects](https://github.com/kartik2318/My-Projects) | ![Stars](https://img.shields.io/github/stars/kartik2318/My-Projects?style=social) | ![Forks](https://img.shields.io/github/forks/kartik2318/My-Projects?style=social) | ![Issues](https://img.shields.io/github/issues/kartik2318/My-Projects) | ![PRs](https://img.shields.io/github/issues-pr/kartik2318/My-Projects) |
 
+## 🌟 Open Source Contributions
+- Contributed to [Deep Search: Intelligent file searching system through content analysis](https://github.com/nachiket624/Deep-Search-)
+
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kartik2318&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik2318&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartik2318&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kartik2318&theme=dark&hide_border=true)
 
 
 ## 📫 Connect with me
