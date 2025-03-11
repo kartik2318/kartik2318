@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page!  
 I'm Kartik, a passionate developer who loves working with **Fullstack and Blockchain** technologies.
-
+ 
 ## 🚀 Technologies I Work With:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
